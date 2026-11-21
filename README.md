@@ -4,9 +4,14 @@
 
 ![桌面端](docs/screenshots/05-entry-desktop.png)
 
-| 记账 | 明细 | 统计 | 设置 |
-| :---: | :---: | :---: | :---: |
-| ![](docs/screenshots/01-entry-mobile.png) | ![](docs/screenshots/02-details-mobile.png) | ![](docs/screenshots/03-stats-mobile.png) | ![](docs/screenshots/04-settings-mobile.png) |
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%"><b>记账</b><br><img src="docs/screenshots/01-entry-mobile.png" alt="记账" width="100%"></td>
+    <td align="center" valign="top" width="25%"><b>明细</b><br><img src="docs/screenshots/02-details-mobile.png" alt="明细" width="100%"></td>
+    <td align="center" valign="top" width="25%"><b>统计</b><br><img src="docs/screenshots/03-stats-mobile.png" alt="统计" width="100%"></td>
+    <td align="center" valign="top" width="25%"><b>设置</b><br><img src="docs/screenshots/04-settings-mobile.png" alt="设置" width="100%"></td>
+  </tr>
+</table>
 
 ## 它是什么
 
